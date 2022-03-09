@@ -1,4 +1,4 @@
-## Hola, I'm [Thathsarani Nimsara!](https://pawan.live) 👋
+## Hola, I'm [Thathsarani Nimsara!](https://thathsarani.live) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
@@ -28,14 +28,14 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
+- 🔭 I’m currently working on [99x Sri Lanka](www.99x.io).
+- 🌱 I’m currently learning more about React Native.
+- 👯 I’m looking to collaborate on [Software Engineering]
 - 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 💬 Ask me about.
 - 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I spend listening to songs every day & watching films.
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
