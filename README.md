@@ -37,11 +37,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend listening to songs every day & watching films.
 
-[![Linkedin: imthepk](https://www.linkedin.com/in/thathsarani-nimsara-20a9a11aa/?fbclid=IwAR36JFVDoaXD63sUUPIiYHDCrMkjhUP-ioR_SDBNPmzr3Utw0-Yk0UXk-sg)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)
-
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
