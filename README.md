@@ -28,12 +28,12 @@
 <br/>
 
 
-- 🔭 I’m currently working on [99x Sri Lanka](www.99x.io).
+- 🔭 I’m currently working on [99x Sri Lanka](https://99x.io/).
 - 🌱 I’m currently learning more about React Native.
 - 👯 I’m looking to collaborate on [Software Engineering]
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100070529049594) , [Linkedin - @Thathsarani Nimsara](https://www.linkedin.com/in/thathsarani-nimsara-20a9a11aa/?fbclid=IwAR36JFVDoaXD63sUUPIiYHDCrMkjhUP-ioR_SDBNPmzr3Utw0-Yk0UXk-sg)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend listening to songs every day & watching films.
 
