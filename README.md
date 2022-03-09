@@ -1,4 +1,4 @@
-## Hola, I'm [Thathsarani Nimsara!](https://thathsarani.live) 👋
+## Hola, I'm [Thathsarani Nimsara! I'm a Trainee Software Engineer at 99x Colombo Sri Lanka](https://thathsarani.live) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
