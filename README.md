@@ -1,5 +1,7 @@
 ## Hola, I'm [Thathsarani Nimsara! I'm a Trainee Software Engineer at 99x!](https://thathsarani.live) 👋
 
+![your_cool_intro (2)](https://user-images.githubusercontent.com/89225439/157394953-7028ff78-abf9-48b7-8ffa-b4b06fe2f3f1.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 <a href="https://twitter.com/imthepk">
@@ -62,4 +64,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![your_cool_intro (2)](https://user-images.githubusercontent.com/89225439/157394814-0112ad34-a770-41f7-a84a-ba84a444614d.gif)
