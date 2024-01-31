@@ -1,4 +1,4 @@
-## Hola, I'm [Thathsarani Nimsara! I'm a Trainee Software Engineer at 99x!](https://thathsarani.live) 👋
+## Hellooo, I'm [Thathsarani Nimsara! I'm a Trainee Software Engineer at 99x!](https://thathsarani.live) 👋
 
 ![your_cool_intro (2)](https://user-images.githubusercontent.com/89225439/157394953-7028ff78-abf9-48b7-8ffa-b4b06fe2f3f1.gif)
 
